@@ -1,6 +1,4 @@
 Acesse este site pela URL:
 
 
-<a>
-    <strong>natanlimaz.github.io/desafio-feed/</strong>
-</a>
+[Desafio Feed](https://natanlimaz.github.io/desafio-feed/)
